@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Wip Proj 2",
+    "src": "https://crackedsnowboard.github.io/portfolio-highlights/assets/wip2.png",
+    "alt": "login page",
+    "text": "Tracking goals during a pandemic to help users remain accountable",
+    "link": "https://vast-hollows-48558.herokuapp.com",
+    "github": "https://github.com/crackedsnowboard/project-maven"
+  },
+  {
+    "id": 2,
+    "title": "uDecide Proj 1",
+    "src": "https://crackedsnowboard.github.io/portfolio-highlights/assets/uDecide.png",
+    "alt": "picture of input for address",
+    "text": "Helping voters indentify their current Federal representatives",
+    "link": "https://crackedsnowboard.github.io/uDecide",
+    "github": "https://github.com/crackedsnowboard/uDecide"
+  },
+  {
+    "id": 3,
+    "title": " Weather API",
+    "src": "https://crackedsnowboard.github.io/portfolio-highlights/assets/weather.png",
+    "alt": "screenshot of 5 day weather display",
+    "text": "Consumed open APIs to deliver a 5 day forecast",
+    "link": "https://crackedsnowboard.github.io/weather-dashboard",
+    "github": "https://github.com/crackedsnowboard/weather-dashboard"
+  },
+  {
+    "id": 4,
+    "title": "Burger Choice",
+    "src": "https://crackedsnowboard.github.io/portfolio-highlights/assets/weather.png",
+    "alt": "display of day planner with hours as rows",
+    "text": "Used Handlebars and MySQL to Heroku",
+    "link": "https://glacial-wildwood-18849.herokuapp.com",
+    "github": "https://github.com/crackedsnowboard/node-express-handlebars"
+  },
+  {
+    "id": 5,
+    "title": "Burger Choice",
+    "src": "https://crackedsnowboard.github.io/portfolio-highlights/assets/weather.png",
+    "alt": "display of day planner with hours as rows",
+    "text": "Used Handlebars and MySQL to Heroku",
+    "link": "https://glacial-wildwood-18849.herokuapp.com",
+    "github": "https://github.com/crackedsnowboard/node-express-handlebars"
+  },
+  {
+    "id": 6,
+    "title": "Burger Choice",
+    "src": "https://crackedsnowboard.github.io/portfolio-highlights/assets/weather.png",
+    "alt": "display of day planner with hours as rows",
+    "text": "Used Handlebars and MySQL to Heroku",
+    "link": "https://glacial-wildwood-18849.herokuapp.com",
+    "github": "https://github.com/crackedsnowboard/node-express-handlebars"
+  }
+]
